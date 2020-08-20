@@ -1,1 +1,2 @@
-# fandango_visualization
+#  Visualizing Earnings Based On College Majors
+
